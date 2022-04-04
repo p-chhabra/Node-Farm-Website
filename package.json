@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.15"
-  }
+    "slugify": "^1.6.5"
+  },
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Food Description Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-chhabra/Node-Farm-Website.git"
+  },
+  "author": "Prathmesh Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-chhabra/Node-Farm-Website/issues"
+  },
+  "homepage": "https://github.com/p-chhabra/Node-Farm-Website#readme"
 }
